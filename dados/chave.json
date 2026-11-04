@@ -1,0 +1,6 @@
+{
+  "formato": 1,
+  "kdf": "PBKDF2-SHA256",
+  "iteracoes": 600000,
+  "sal": "nj0j2b8O200G63JVGB/VNw=="
+}

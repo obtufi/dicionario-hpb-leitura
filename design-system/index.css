@@ -1,0 +1,10 @@
+/*
+ * Design System HPB — ponto de entrada único das folhas de estilo.
+ * Versão e inventário: web/design-system/design-system.json
+ * Documentação canônica: docs/DESIGN-SYSTEM.md
+ * Nenhuma outra folha de estilo pode ser criada fora desta pasta.
+ */
+@import url("./tokens.css");
+@import url("./base.css");
+@import url("./layout.css");
+@import url("./components.css");

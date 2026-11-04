@@ -1,0 +1,17 @@
+{
+  "name": "Design System HPB",
+  "version": "1.4.0",
+  "updated": "2026-11-03",
+  "documentation": "docs/DESIGN-SYSTEM.md",
+  "changelog": "web/design-system/CHANGELOG.md",
+  "entry_css": "web/design-system/index.css",
+  "entry_js": "web/design-system/components.js",
+  "files": {
+    "tokens.css": "Tokens: paleta crua, cores semânticas, tons, tipografia, espaçamento, dimensões, bordas, sombras, camadas e movimento.",
+    "base.css": "Reset, tipografia base, foco visível, utilitários de acessibilidade e de texto.",
+    "layout.css": "Casca da aplicação, navegação lateral, cabeçalho de página, pilhas, grades, divisão editor/contexto, seções, barra de ações e mapa mental.",
+    "components.css": "Estilos de cada componente de components.js.",
+    "components.js": "Fábricas DOM dos componentes (sem framework)."
+  },
+  "breakpoints": { "sm": "640px", "md": "960px", "lg": "1280px" }
+}
